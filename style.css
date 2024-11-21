@@ -74,6 +74,7 @@ button {
 h1 {
     font-family: "Big Shoulders Display";
     text-transform: uppercase;
+    margin-bottom: 20px;
 }
 
 .par1,
@@ -82,10 +83,6 @@ h1 {
     padding: 30px;
     width: 250px;
     height: 300px;
-}
-
-h1 {
-    margin-bottom: 20px;
 }
 
 .par1 {
